@@ -2,8 +2,8 @@
 
 <p align="center">
   <img
-	src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=200&section=header&text=Tarek%20Masryo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42"
-    alt="Thinking Dev"
+	src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=200&section=header&text=Thinking%20Developer&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42"
+    alt="Thinking Developer"
   />
 </p>
 
