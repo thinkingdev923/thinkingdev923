@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=200&section=header&text=Thinking%20Developer&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=200&section=header&text=🚀Thinking%20Developer&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42"
     alt="Thinking Developer"
   />
 </p>
@@ -48,13 +48,14 @@
 
 ## Featured Work
 
-| Project | Engineering focus |
-| --- | --- |
-| [**Caprover**](https://github.com/thinkingdev923/Caprover) | Automated deployment and PaaS management workflows for containerized applications and microservices |
-| [**EstateWise**](https://github.com/thinkingdev923/EstateWise-Chapel-Hill-Chatbot) | Domain-specific real estate conversational assistant powered by RAG, structured retrieval, and tailored context engineering |
-| [**Olivia**](https://github.com/thinkingdev923/Olivia) | Intelligent conversational AI agent architecture designed for task automation, context tracking, and integration |
-| [**Bubbles**](https://github.com/thinkingdev923/Bubbles) | Interactive web application featuring real-time state synchronization, modular backend workflows, and modern UI components |
-| [**Care**](https://github.com/thinkingdev923/Care) | Healthcare-focused digital solution facilitating user engagement, data tracking, and reliable service processing |
+| Project                                                                    | Engineering Focus                                                                                                                                                                     |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [TEN VoiceAgent](https://github.com/thinkingdev923/Ten-VoiceAgent)         | Real-time multimodal conversational AI framework with voice assistants, WebSockets, RTC, speech-to-text, LLMs, text-to-speech, memory, turn detection, and AI agent extensions        |
+| [EstateWise-ChatBot](https://github.com/thinkingdev923/EstateWise-ChatBot) | AI-powered real estate platform using Agentic AI, RAG, Pinecone, GraphRAG, Neo4j, MCP, LangGraph, property recommendations, and intelligent conversational workflows                  |
+| [Care](https://github.com/thinkingdev923/Care)                             | Healthcare platform supporting patient management, hospital resources, inventory, telemedicine, triage, consultation history, real-time monitoring, and clinical data visualization   |
+| [Veniqa](https://github.com/thinkingdev923/Veniqa)                         | Full-stack MEVN e-commerce platform with Node.js, Express.js, Vue.js, MongoDB, Redis, Stripe, authentication, inventory, order management, cloud storage, and Docker-based deployment |
+| [CapRover](https://github.com/thinkingdev923/Caprover)                     | Application deployment and PaaS infrastructure built around Docker, Nginx, container orchestration, automated deployments, SSL, CLI tooling, and cloud-native workflows               |
+| [Bubbles](https://github.com/thinkingdev923/Bubbles)                       | Real-time multi-agent web application with React, TypeScript, FastAPI, WebSockets, Redis Pub/Sub, asynchronous workers, state synchronization, and containerized microservices        |
 
 ---
 
