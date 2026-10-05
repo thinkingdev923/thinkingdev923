@@ -1,8 +1,8 @@
-<!-- GitHub Profile README — github.com/thinkingdev -->
+<!-- GitHub Profile README — github.com/thinkingdev923 -->
 
 <p align="center">
   <img
-	src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=200&section=header&text=Thinking%20Developer&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=200&section=header&text=Thinking%20Developer&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42"
     alt="Thinking Developer"
   />
 </p>
@@ -36,28 +36,10 @@
 </p>
 
 <p align="center">
-  <a href="https://tarekmasryo.com">
+  <a href="https://github.com/thinkingdev923">
     <img
-      alt="Portfolio"
-      src="https://img.shields.io/badge/Portfolio-View%20Work-10B981?style=flat-square&labelColor=111827"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/tarek-masryo/">
-    <img
-      alt="LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
-    />
-  </a>
-  <a href="https://huggingface.co/tarekmasryo">
-    <img
-      alt="Hugging Face"
-      src="https://img.shields.io/badge/Hugging%20Face-Profile-FFD21E?style=flat-square&logo=huggingface&logoColor=111827"
-    />
-  </a>
-  <a href="https://medium.com/@tarekmasryo">
-    <img
-      alt="Medium"
-      src="https://img.shields.io/badge/Medium-Writing-111111?style=flat-square&logo=medium&logoColor=white"
+      alt="GitHub Profile"
+      src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white"
     />
   </a>
 </p>
@@ -68,10 +50,11 @@
 
 | Project | Engineering focus |
 | --- | --- |
-| [**Evagix**](https://github.com/tarekmasryo/Evagix) · [PyPI](https://pypi.org/project/evagix/) | Local-first repository evidence validation and governance CLI with deterministic checks, traceable findings, JSON/SARIF output, and validation behavior refined across **100+ repositories** |
-| [**RAG QA Command Center**](https://github.com/tarekmasryo/rag-qa-command-center) | CI-tested RAG evaluation workspace spanning **3,824 offline QA evaluation runs** and **93,375 retrieval events**, with retrieval diagnostics, hallucination-risk analysis, trace inspection, configuration comparison, and regression analysis |
-| [**LLMOps Telemetry Command Center**](https://github.com/tarekmasryo/llmops-telemetry-command-center) | Operator-facing LLMOps workspace analyzing **9,000 offline interactions across 1,595 sessions**, with diagnostics for reliability, latency, cost, routing behavior, drift signals, and operational review |
-| [**Fraud Risk Ops Platform**](https://github.com/tarekmasryo/fraud-risk-ops-platform) | End-to-end fraud risk operations platform combining calibrated ML models, policy-driven decisions, FastAPI inference, analyst review, audit trails, background processing, and Prometheus/Grafana observability; achieved **F1 0.882 for Random Forest and 0.876 for XGBoost** |
+| [**Caprover**](https://github.com/thinkingdev923/Caprover) | Automated deployment and PaaS management workflows for containerized applications and microservices |
+| [**EstateWise**](https://github.com/thinkingdev923/EstateWise-Chapel-Hill-Chatbot) | Domain-specific real estate conversational assistant powered by RAG, structured retrieval, and tailored context engineering |
+| [**Olivia**](https://github.com/thinkingdev923/Olivia) | Intelligent conversational AI agent architecture designed for task automation, context tracking, and integration |
+| [**Bubbles**](https://github.com/thinkingdev923/Bubbles) | Interactive web application featuring real-time state synchronization, modular backend workflows, and modern UI components |
+| [**Care**](https://github.com/thinkingdev923/Care) | Healthcare-focused digital solution facilitating user engagement, data tracking, and reliable service processing |
 
 ---
 
@@ -102,66 +85,7 @@
 
 ---
 
-## More Public Work
-
-<details>
-<summary><strong>Applied ML, analytics, data products, and supporting projects</strong></summary>
-
-<br>
-
-### Applied ML & NLP
-
-* [**Advanced ML Sentiment Lab**](https://github.com/tarekmasryo/advanced-ml-sentiment-lab)
-* [**Pima Diabetes Pipeline**](https://github.com/tarekmasryo/pima-diabetes-pipeline)
-* [**Clinical Deterioration Early Warning**](https://github.com/tarekmasryo/hospital-deterioration-next-12h-early-warning-baseline)
-* [**Credit Card Fraud Detection**](https://github.com/tarekmasryo/creditcard-fraud-detection)
-* [**Road Accident Risk Prediction**](https://github.com/tarekmasryo/road-accident-risk-ps5e10)
-* [**Cancer Risk Prediction**](https://github.com/tarekmasryo/cancer-risk-prediction)
-* [**SMS Spam Detection**](https://github.com/tarekmasryo/sms-spam-detection)
-
-### Analytics & Decision Support
-
-* [**Health Intelligence Platform**](https://github.com/tarekmasryo/health-intelligence-platform)
-* [**EV Charging Analytics**](https://github.com/tarekmasryo/ev-charging-dashboard)
-* [**Short-Video Intelligence Dashboard**](https://github.com/tarekmasryo/short-video-intelligence-dashboard)
-
-### Evaluation & Data Products
-
-* [**RAG QA Logs & Corpus**](https://github.com/tarekmasryo/rag-qa-logs-corpus-data)
-* [**LLM Production Telemetry**](https://github.com/tarekmasryo/llm-system-ops-production-telemetry-sft-data)
-* [**Hospital Deterioration Dataset**](https://github.com/tarekmasryo/hospital-deterioration-dataset)
-* [**Global EV Infrastructure Dataset**](https://github.com/tarekmasryo/global-ev-infra-dataset)
-
-### AI Tools & Applications
-
-* [**Old Photo Restorer**](https://github.com/tarekmasryo/Old-Photo-Restorer)
-
-</details>
-
-[**Browse all public repositories →**](https://github.com/tarekmasryo?tab=repositories)
-
----
-
-## 🏆 Achievements
-
-<p>
-  <a href="https://www.kaggle.com/tarekmasryo">
-    <img
-      alt="Kaggle Datasets Grandmaster"
-      src="https://img.shields.io/badge/Kaggle%20Datasets-Grandmaster-FACC15?style=flat-square&logo=kaggle&logoColor=111827"
-    />
-  </a>
-  <a href="https://www.kaggle.com/tarekmasryo">
-    <img
-      alt="Kaggle Notebooks Master"
-      src="https://img.shields.io/badge/Kaggle%20Notebooks-Master-F97316?style=flat-square&logo=kaggle&logoColor=white"
-    />
-  </a>
-</p>
-
-* **Kaggle Datasets Grandmaster**
-* **Kaggle Notebooks Master**
-* Reached **#18 globally in Kaggle Datasets**
+[**Browse all public repositories →**](https://github.com/thinkingdev923?tab=repositories)
 
 ---
 
@@ -169,8 +93,6 @@
 
 Open to **AI engineering roles, remote contracts, and selected technical collaborations** across:
 
-* **Production ML & generative AI systems** — model serving, APIs, deployment, evaluation, observability, reliability, and system integration
-* **RAG, agents & AI evaluation** — retrieval quality, grounded outputs, agentic workflows, tool execution, benchmark design, trace analysis, and failure diagnosis
-* **Applied ML & decision systems** — model evaluation, calibration, threshold policies, monitoring, analytics, and operator-facing workflows
-
-**Best contact:** [LinkedIn](https://www.linkedin.com/in/tarek-masryo/)
+- **Production ML & generative AI systems** — model serving, APIs, deployment, evaluation, observability, reliability, and system integration
+- **RAG, agents & AI evaluation** — retrieval quality, grounded outputs, agentic workflows, tool execution, benchmark design, trace analysis, and failure diagnosis
+- **Applied ML & decision systems** — model evaluation, calibration, threshold policies, monitoring, analytics, and operator-facing workflows
